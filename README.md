@@ -1,47 +1,14 @@
 # School_District_Analysis
+# 
 
-### Notes about Challenge
-### Deliverable 1 - replace 9th grade scores with NaNs at Thomas High School
-### Deliverable 2- do the analysis again
-### Written report
+## Overview of school district analysis:
 
-#### use testing code to make sure everything works
-#### DO NOT include any unessessary print statements  !!
+### The purpose of this analysis is to analyze standardized test scores within the school district, and to make smart desicions on plans for the next school year. The results show summaries of the district performance, performance for each school, and scores by grade, spending , size and type.
 
+### An initial analysis was performed using all the data provided, however the scores from 9th graders at Thomas High School may have been altered, so a second analysis shows results excluding those scores. 
+#
 
-
-### deliverable 1
-
-#### use for loop - for each score in 9th grade at Thomas High School
-#### replace value with NaN
-#### loc = label based, can look up a row using the index name, doesn't need to be a number
-#### iloc = index based, look up a row using the index
-
-#### use loc method to fing all rows with Thomas High School and 9th grade
-#### set scores equal to np.nan
-
-
-### deliverable2
-
-#### district summary
-#### school summary
-#### top 5 and bottom 5 based oon overall passing
-#### avg math and reading score for each grade at each school
-#### scores by school budget, school size. and school type
-
-#### need to exclude 9th graders at Thomas HS - total count, avg scores
-
-
-
-### written report
-
-#### overview of school district analysis (purpose)
-
-#### purpose is to analyze reading and math scores within the school district
-#### help to figure out planning for the next school year, top/bottom school, correlation with budget, school size, school type, grade
-#### can compare with previous years' data or future data to see progress over time
-
-#### results
+## Results:
 
 #### use bullet lists, and images for support
 #### how did the analysis change after removing 9th grade Thomas HS
@@ -54,4 +21,4 @@
 
 
 
-#### software: python, pandas, jupyter notebook,
+#### software: python, pandas, numpy, jupyter notebook,
