@@ -59,6 +59,8 @@
 [Link to Original School Summary]("Resources/imagesOriginalAnalysis/Screenshot (75).png")
 [Link to Updated School Summary]("Resources/imagesAfterRemovingAlteredScores/Screenshot (84).png")
 
+[![Link:Original School Summary]("Resources/imagesOriginalAnalysis/Screenshot (75).png")]
+
 #### Removing the Thomas High School 9th grade scores had no affect on the number of total schools, total students, or total budget.
 
 
