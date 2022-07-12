@@ -57,12 +57,13 @@
 
 #### In the School Summary, the average scores for both reading and math at Thomas High School decreased once the 9th grade scores were excluded. The percent of students who passed reading, math, or both overall also decreased as well. 
 [Link: Original School Summary](https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(75).png)
-#
+####
 [Link: Updated School Summary](https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(84).png)
 
 
 #### Removing the Thomas High School 9th grade scores had no effect on the number of total schools, total students, or total budget.
 
+#
 
 ## Software: 
 #### Python 3.9.12
