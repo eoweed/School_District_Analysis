@@ -11,7 +11,7 @@
 
 ## Results:
 
-### These results show how the original analysis was affected after removing Thomas High School 9th grade scores.
+### These results show how the analysis was affected after removing Thomas High School 9th grade scores.
 
 #### district_summary: 
 ##### - Average Math Score decreased by 0.1
