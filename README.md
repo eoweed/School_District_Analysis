@@ -13,32 +13,32 @@
 
 ### These results show how the analysis was affected after removing Thomas High School 9th grade scores.
 
-#### district_summary: 
+### District Summary: 
 ##### - Average Math Score decreased by 0.1
 ##### - % Passing Math decreased by 0.2%
 ##### - % Passing Reading decreased by 0.3%
 ##### - % Overall Passing decreased by 0.1%
-
-#### school_summary:
+#####
+### School Summary:
 ##### - Average Math Score decreased for Thomas High School
 ##### - Average Reading Score decreased for Thomas High School
 ##### - % Passing Math decreased for Thomas High School
 ##### - % Passing Reading decreased for Thomas High School
 ##### - % Overall Passing decreased for Thomas High School
-
-#### Top 5 and Bottom 5 Performance:
+#####
+### Top 5 and Bottom 5 Performance:
 ##### - Thomas High School is still the 2nd Top School after removing 9th grade scores.
-
-#### Scores by grade:
+#####
+### Scores by grade:
 ##### - 9th grade scores for reading and math are shown as NaN.
-
-#### Scores by School Spending:
+#####
+### Scores by School Spending:
 ##### - Removing Thomas High School 9th grade scores does not significantly affect scores by school spending.
-
-#### Scores by School Size:
+#####
+### Scores by School Size:
 ##### - Removing Thomas High School 9th grade scores does not significantly affect scores by school size.
-
-#### Scores by School Type:
+#####
+### Scores by School Type:
 ##### - Removing Thomas High School 9th grade scores does not significantly affect scores by school type.
 
 #
