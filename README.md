@@ -49,9 +49,9 @@
 
 #### In the District Summary, the average math score decreases as shown in the dataframe, and the percent of students who passed math and reading decreases, which means the percent of students who passed both math and reading overall decreases as well. 
 
-<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(74).png" width=50% height=50%>
+<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(74).png">
 
-<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(83).png" width=50% height=50%>
+<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(83).png">
 
 #### Total Schools, Total Students, Total Budget stayed the same.
 
