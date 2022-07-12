@@ -3,7 +3,7 @@
 
 ## Overview of school district analysis:
 
-#### The purpose of this analysis is to analyze standardized test scores within the school district, and to make smart desicions on plans for the next school year or future school years. 
+#### The purpose of this analysis is to analyze standardized test scores within the school district, and to make smart decisions on plans for the next school year or future school years. 
 
 #### An initial analysis was performed using all the data provided, however the scores from 9th graders at Thomas High School may have been altered, so a second analysis shows results excluding those scores. 
 
@@ -47,7 +47,7 @@
 
 #### The updated analysis results in a few changes to the district summary and school summary. 
 
-#### In the District Summary, the average math score decreased as shown in the dataframe, and the percent of students who passed math and reading decreased, which means the percent of students who passed both math and reading overall decreased as well. 
+#### In the District Summary, the average math score decreased as shown in the data frame below, and the percent of students who passed math and reading decreased, which means the percent of students who passed both math and reading overall decreased as well. 
 
 #### Original Analysis:
 <img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(74).png">
@@ -55,13 +55,12 @@
 #### Updated Analysis:
 <img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(83).png">
 
-#### In the School Summary, the average scores for for both reading and math at Thomas High School decreased once the 9th grade scores were excluded. The percent of students who passed reading, math, or both overall also decreased as well. 
-[Link to Original School Summary](https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(75).png)
-[Link to Updated School Summary](Resources/imagesAfterRemovingAlteredScores/Screenshot (84).png)
+#### In the School Summary, the average scores for both reading and math at Thomas High School decreased once the 9th grade scores were excluded. The percent of students who passed reading, math, or both overall also decreased as well. 
+[Link: Original School Summary](https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(75).png)
+[Link: Updated School Summary](https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(84).png)
 
-[![Link:Original School Summary](Resources/imagesOriginalAnalysis/Screenshot (75).png)]
 
-#### Removing the Thomas High School 9th grade scores had no affect on the number of total schools, total students, or total budget.
+#### Removing the Thomas High School 9th grade scores had no effect on the number of total schools, total students, or total budget.
 
 
 ## Software: 
