@@ -3,15 +3,15 @@
 
 ## Overview of school district analysis:
 
-### The purpose of this analysis is to analyze standardized test scores within the school district, and to make smart desicions on plans for the next school year or future school years. 
+#### The purpose of this analysis is to analyze standardized test scores within the school district, and to make smart desicions on plans for the next school year or future school years. 
 
-### An initial analysis was performed using all the data provided, however the scores from 9th graders at Thomas High School may have been altered, so a second analysis shows results excluding those scores. 
+#### An initial analysis was performed using all the data provided, however the scores from 9th graders at Thomas High School may have been altered, so a second analysis shows results excluding those scores. 
 
 #
 
 ## Results:
 
-### These results show how the analysis was affected after removing Thomas High School 9th grade scores.
+#### These results show how the analysis was affected after removing Thomas High School 9th grade scores.
 
 ### District Summary: 
 ##### - Average Math Score decreased by 0.1
@@ -45,7 +45,15 @@
 
 ## Summary: 
 
-### Total Schools, Total Students, Total Budget stayed the same.
+#### The updated analysis results in a few changes to the district summary and school summary. 
+
+#### In the District Summary, the average math score decreases as shown in the dataframe, and the percent of students who passed math and reading decreases, which means the percent of students who passed both math and reading overall decreases as well. 
+
+<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesOriginalAnalysis/Screenshot%20(74).png" width=50% height=50%>
+
+<img src="https://github.com/eoweed/School_District_Analysis/blob/main/Resources/imagesAfterRemovingAlteredScores/Screenshot%20(83).png" width=50% height=50%>
+
+#### Total Schools, Total Students, Total Budget stayed the same.
 
 #
 
